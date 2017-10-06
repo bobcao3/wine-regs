@@ -1,0 +1,4 @@
+REGEDIT4
+[HKEY_CURRENT_USER\Software\Wine]
+"WineBrowser"="xdg-open,google-chrome-stable,firefox,chromium,opera,vivaldi-stable"
+
